@@ -1,9 +1,9 @@
-#include "Timestamp.h"
+#include "Timestamp.hpp"
 
 #include <chrono>
 #include <limits>
 
-#include "Timespan.h"
+#include "Timespan.hpp"
 
 namespace Poco {
 const Timestamp::TimeVal Timestamp::Min = std::numeric_limits<TimeVal>::min();

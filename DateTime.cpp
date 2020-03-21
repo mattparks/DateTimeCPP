@@ -1,6 +1,6 @@
-#include "DateTime.h"
+#include "DateTime.hpp"
 
-#include "Timespan.h"
+#include "Timespan.hpp"
 #include <algorithm>
 #include <cmath>
 #include <cassert>

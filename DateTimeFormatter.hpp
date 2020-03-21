@@ -3,8 +3,8 @@
 #include <string>
 #include <sstream>
 
-#include "DateTime.h"
-#include "LocalDateTime.h"
+#include "DateTime.hpp"
+#include "LocalDateTime.hpp"
 
 namespace Poco {
 class Timestamp;

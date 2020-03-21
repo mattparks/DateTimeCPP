@@ -1,12 +1,12 @@
 #include <iostream>
 
-#include "LocalDateTime.h"
-#include "DateTime.h"
-#include "DateTimeFormat.h"
-#include "DateTimeFormatter.h"
-#include "DateTimeParser.h"
-#include "Timezone.h"
-#include "Timespan.h"
+#include "LocalDateTime.hpp"
+#include "DateTime.hpp"
+#include "DateTimeFormat.hpp"
+#include "DateTimeFormatter.hpp"
+#include "DateTimeParser.hpp"
+#include "Timezone.hpp"
+#include "Timespan.hpp"
 #include <cassert>
 
 using namespace Poco;

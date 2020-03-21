@@ -1,4 +1,4 @@
-#include "Timespan.h"
+#include "Timespan.hpp"
 
 #include <algorithm>
 

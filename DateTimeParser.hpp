@@ -2,7 +2,7 @@
 
 #include <string>
 
-#include "DateTime.h"
+#include "DateTime.hpp"
 
 namespace Poco {
 /// This class provides a method for parsing dates and times

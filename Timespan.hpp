@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Timestamp.h"
+#include "Timestamp.hpp"
 
 namespace Poco {
 /// A class that represents time spans up to microsecond resolution.

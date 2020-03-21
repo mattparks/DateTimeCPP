@@ -1,6 +1,6 @@
 #pragma once
 
-#include "DateTime.h"
+#include "DateTime.hpp"
 
 namespace Poco {
 /// This class represents an instant in local time

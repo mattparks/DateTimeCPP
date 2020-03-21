@@ -1,9 +1,9 @@
-#include "DateTimeParser.h"
+#include "DateTimeParser.hpp"
 
 #include <stdexcept>
 
-#include "DateTimeFormat.h"
-#include "DateTime.h"
+#include "DateTimeFormat.hpp"
+#include "DateTime.hpp"
 
 namespace Poco {
 #define SKIP_JUNK() \

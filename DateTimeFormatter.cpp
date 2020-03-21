@@ -1,8 +1,8 @@
-#include "DateTimeFormatter.h"
+#include "DateTimeFormatter.hpp"
 
 #include <iomanip>
 
-#include "DateTimeFormat.h"
+#include "DateTimeFormat.hpp"
 
 namespace Poco {
 std::string DateTimeFormatter::Format(const Timestamp &timestamp, std::string_view fmt, int timeZoneDifferential) {

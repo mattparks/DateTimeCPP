@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Timestamp.h"
-#include "Timespan.h"
+#include "Timestamp.hpp"
+#include "Timespan.hpp"
 
 namespace Poco {
 /// This class represents an instant in time, expressed

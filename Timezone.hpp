@@ -2,7 +2,7 @@
 
 #include <string>
 
-#include "Timestamp.h"
+#include "Timestamp.hpp"
 
 namespace Poco {
 /// This class provides information about the current timezone.

@@ -1,10 +1,10 @@
-#include "LocalDateTime.h"
+#include "LocalDateTime.hpp"
 
 #include <ctime>
 #include <stdexcept>
 
-#include "Timezone.h"
-#include "Timespan.h"
+#include "Timezone.hpp"
+#include "Timespan.hpp"
 
 namespace Poco {
 LocalDateTime::LocalDateTime() {

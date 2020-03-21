@@ -1,5 +1,5 @@
 #if defined(_WIN32)
-#include "Timezone.h"
+#include "Timezone.hpp"
 
 #include <stdexcept>
 #include <ctime>
